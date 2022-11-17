@@ -1,3 +1,1 @@
-console.log('Hello world');
-
-console.log('dos hellos world');
+console.log('Hello wo');
