@@ -15,7 +15,7 @@ const get = (id,table) => {
 
 }
 
-export {
+export default {
     insert,
     update,
     list,
